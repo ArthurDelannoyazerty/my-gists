@@ -1,7 +1,56 @@
 # Summary
-- ## Python
-  - z
-- ## aaa
-  - z
+## Python
+- [Algorithm: Binary search](https://gist.github.com/ArthurDelannoyazerty/a5dedffff413f8696ed70d8a3ef96b7b)
+- [Algorithm: BFS / DFS](https://gist.github.com/ArthurDelannoyazerty/0d348fa60b9b247a28017813a20656fc)
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- [Matplotlib: plot GPX atlitude](https://gist.github.com/ArthurDelannoyazerty/eef54b621a702924e8f2b66dffb41075)
+- [Matplotlib: Automatic image size](https://gist.github.com/ArthurDelannoyazerty/83b59aba51deb70e4679b025443d5767)
+- [Matplotlib: Animation 3D plot rotation](https://gist.github.com/ArthurDelannoyazerty/577e1bb56b9a07d023fef6975fefe640)
+- [Matplotlib: Plot to mp4](https://gist.github.com/ArthurDelannoyazerty/49731ca5f8bfb759d86bc50434a37298)
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- [Miscellaneous: Sort filepath alphabetically](https://gist.github.com/ArthurDelannoyazerty/01525649bb7011825bdf34ca585214a7)
+- [Miscellaneous: Delete content of a folder but not the folder itself](https://gist.github.com/ArthurDelannoyazerty/0c4b1a7b0473e8d4ec8a90ed08378612)
+- [Miscellaneous: Filter nested dict](https://gist.github.com/ArthurDelannoyazerty/d6bc1caf98ad88f91d74bb68bed2fab3)
+- [Miscellaneous: Relative import tutorial](https://gist.github.com/ArthurDelannoyazerty/1fad8f19b668ea4730c424356c8e44b7)
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- [Pytorch: Slicing with backpropagation (strange)](https://gist.github.com/ArthurDelannoyazerty/61fd57fc798b1334e2cad6fd1f088c90)
+- [Pytorch: Plot computation graph (ideal to see if the model backpropagate correclty)](https://gist.github.com/ArthurDelannoyazerty/0471f4f68fd6fd8addf9ff1dc6da3568)
+- [Pytorch: What break the computation graph ?](https://gist.github.com/ArthurDelannoyazerty/2d3897c7e9e71b0199ab3aff0de335ee)
+- [Pytorch: Tensorboard profiler and data writer](https://gist.github.com/ArthurDelannoyazerty/d75a238248ba96a7367d3d4baf29bf63)
+- [Pytorch: Dataset example](https://gist.github.com/ArthurDelannoyazerty/00f4c3b90c23258c87ed16d6fe69b2cd)
+- [Pytorch: Train/Test split](https://gist.github.com/ArthurDelannoyazerty/c7cfc9e4438d1708203c29931f486219)
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+
+
+## Others
+- [Tabulate table format](https://gist.github.com/ArthurDelannoyazerty/4fa9e7e5a2afca863b3a4f6c42e0610a)
+- [Hydra video synth](https://gist.github.com/ArthurDelannoyazerty/2702c3af4c09840aaf1a6f4352fdff8f)
+- []()
 
 
