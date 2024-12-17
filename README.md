@@ -35,6 +35,11 @@
 - [Count JSON items](https://gist.github.com/ArthurDelannoyazerty/561f07606bfdb1aaa587a45b503ba3b3)
 - [Find files in nested folder according to the specified file extension](https://gist.github.com/ArthurDelannoyazerty/4ee434e0f7029fc1382ca2a1dbfa345b)
 - [A One Line luminosity and contrast manipulation OpenCV](https://gist.github.com/ArthurDelannoyazerty/098a6233d182301e4e67d25536ecf763)
+- [Send SQL query](https://gist.github.com/ArthurDelannoyazerty/7bf3eb9f01bbe4d21a36ec7ba1c39163)
+- [Logging useful snippets](https://gist.github.com/ArthurDelannoyazerty/3bba8c3b112960bfc8554b7e73e8b383)
+- [Llamaindex create llm running with Ollama](https://gist.github.com/ArthurDelannoyazerty/67a9f37295a70e42d819d58724d05b4d)
+- [Send a request to a url](https://gist.github.com/ArthurDelannoyazerty/b61009f888459dbe288fc92b88e94b01)
+
 
 ### Pytorch
 - [Slicing with backpropagation (strange)](https://gist.github.com/ArthurDelannoyazerty/61fd57fc798b1334e2cad6fd1f088c90)
