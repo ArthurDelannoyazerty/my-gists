@@ -39,6 +39,7 @@
 - [Logging useful snippets](https://gist.github.com/ArthurDelannoyazerty/3bba8c3b112960bfc8554b7e73e8b383)
 - [Llamaindex create llm running with Ollama](https://gist.github.com/ArthurDelannoyazerty/67a9f37295a70e42d819d58724d05b4d)
 - [Send a request to a url](https://gist.github.com/ArthurDelannoyazerty/b61009f888459dbe288fc92b88e94b01)
+- [Connect, search and download from a S3 bucket](https://gist.github.com/ArthurDelannoyazerty/5e3ff5ac297791829aa2863f8256b359)
 
 
 ### Pytorch
