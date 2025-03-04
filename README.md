@@ -42,6 +42,7 @@
 - [Connect, search and download from a S3 bucket](https://gist.github.com/ArthurDelannoyazerty/5e3ff5ac297791829aa2863f8256b359)
 - [A simple example of Flask SocketIO](https://gist.github.com/ArthurDelannoyazerty/ce476c1774ce15c1fe98850bbea47df3)
 - [Listen to a PostgreSQL NOTIFY while doing other job](https://gist.github.com/ArthurDelannoyazerty/426d2aa084aad644b215b8cacbffe914)
+- [A basic python argparse](https://gist.github.com/ArthurDelannoyazerty/9929e4dc94eed095988f2e9dd2f7d1ae)
 
 
 ### Pytorch
