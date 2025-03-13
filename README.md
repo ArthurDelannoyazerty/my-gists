@@ -43,6 +43,9 @@
 - [A simple example of Flask SocketIO](https://gist.github.com/ArthurDelannoyazerty/ce476c1774ce15c1fe98850bbea47df3)
 - [Listen to a PostgreSQL NOTIFY while doing other job](https://gist.github.com/ArthurDelannoyazerty/426d2aa084aad644b215b8cacbffe914)
 - [A basic python argparse](https://gist.github.com/ArthurDelannoyazerty/9929e4dc94eed095988f2e9dd2f7d1ae)
+- [Get the current UTC time from internet](https://gist.github.com/ArthurDelannoyazerty/8f6422f9145bb559f9f509cc6426fa08)
+- [Tabulate table format](https://gist.github.com/ArthurDelannoyazerty/4fa9e7e5a2afca863b3a4f6c42e0610a)
+- [Tabulate minimal code examples](https://gist.github.com/ArthurDelannoyazerty/c2dfc597382824dbc5a62562b0725491)
 
 
 ### Pytorch
@@ -57,8 +60,6 @@
 
 
 ## Others
-- [Tabulate table format](https://gist.github.com/ArthurDelannoyazerty/4fa9e7e5a2afca863b3a4f6c42e0610a)
-- [Tabulate minimal code examples](https://gist.github.com/ArthurDelannoyazerty/c2dfc597382824dbc5a62562b0725491)
 - [Hydra video synth](https://gist.github.com/ArthurDelannoyazerty/2702c3af4c09840aaf1a6f4352fdff8f)
 - [FFMPEG images to video](https://gist.github.com/ArthurDelannoyazerty/7bfbb4576b26ab2b739958ffbe21ef2a)
 - [DPMC, a SQL DB to manage jobs on server](https://gist.github.com/ArthurDelannoyazerty/3ead4909deb7de6a274f4650c27f937b)
