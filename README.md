@@ -63,5 +63,6 @@
 - [Hydra video synth](https://gist.github.com/ArthurDelannoyazerty/2702c3af4c09840aaf1a6f4352fdff8f)
 - [FFMPEG images to video](https://gist.github.com/ArthurDelannoyazerty/7bfbb4576b26ab2b739958ffbe21ef2a)
 - [DPMC, a SQL DB to manage jobs on server](https://gist.github.com/ArthurDelannoyazerty/3ead4909deb7de6a274f4650c27f937b)
+- [Git config & remote connection](https://gist.github.com/ArthurDelannoyazerty/e3137d62a35ae2fc007cd599fa1ecc7c)
 
 
