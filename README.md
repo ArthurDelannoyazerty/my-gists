@@ -46,6 +46,7 @@
 - [Get the current UTC time from internet](https://gist.github.com/ArthurDelannoyazerty/8f6422f9145bb559f9f509cc6426fa08)
 - [Tabulate table format](https://gist.github.com/ArthurDelannoyazerty/4fa9e7e5a2afca863b3a4f6c42e0610a)
 - [Tabulate minimal code examples](https://gist.github.com/ArthurDelannoyazerty/c2dfc597382824dbc5a62562b0725491)
+- [Simple example : nginx + flask socketio + gunicorn + docker](https://gist.github.com/ArthurDelannoyazerty/dc009a45760cdd33e4d6fe0b8621d0e0) 
 
 
 ### Pytorch
