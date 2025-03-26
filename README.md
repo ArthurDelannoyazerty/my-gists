@@ -67,5 +67,6 @@
 - [DPMC, a SQL DB to manage jobs on server](https://gist.github.com/ArthurDelannoyazerty/3ead4909deb7de6a274f4650c27f937b)
 - [Git config & remote connection](https://gist.github.com/ArthurDelannoyazerty/e3137d62a35ae2fc007cd599fa1ecc7c)
 - [My .bashrc](https://gist.github.com/ArthurDelannoyazerty/a7ed4eee2781aa05e1f8911e487c8e80)
+- [postgres pg_dump & pg_restore](https://gist.github.com/ArthurDelannoyazerty/575573a0f09769a49ff4f70fe96b0aeb)
 
 
