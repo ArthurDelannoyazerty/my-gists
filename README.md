@@ -69,5 +69,6 @@
 - [My .bashrc](https://gist.github.com/ArthurDelannoyazerty/a7ed4eee2781aa05e1f8911e487c8e80)
 - [postgres pg_dump & pg_restore](https://gist.github.com/ArthurDelannoyazerty/575573a0f09769a49ff4f70fe96b0aeb)
 - [Delete docker volume](https://gist.github.com/ArthurDelannoyazerty/6aafb64e991e46f57c86073be1e03ec7)
+- [See folders & files size in linux](https://gist.github.com/ArthurDelannoyazerty/0929fde1e4598479596a8b82547bb9d5)
 
 
