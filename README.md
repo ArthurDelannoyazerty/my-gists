@@ -59,6 +59,7 @@
 - [Train/Test split](https://gist.github.com/ArthurDelannoyazerty/c7cfc9e4438d1708203c29931f486219)
 - [Find triangles (3 cycles) in graph](https://gist.github.com/ArthurDelannoyazerty/2aa82057cda97e8c5804a405c562bfe0)
 - [Analyze embeddings](https://gist.github.com/ArthurDelannoyazerty/57edebae5305ada6b8f2fe1f0305a1eb)
+- [Dataloader benchmark](https://gist.github.com/ArthurDelannoyazerty/f9ab8b36a79c6f2045bf89c4ddbc8840)
 
 
 ## Others
