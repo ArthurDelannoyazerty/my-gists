@@ -49,6 +49,7 @@
 - [Simple example : nginx + flask socketio + gunicorn + docker](https://gist.github.com/ArthurDelannoyazerty/dc009a45760cdd33e4d6fe0b8621d0e0)
 - [Extract a JSON or dict from a string](https://gist.github.com/ArthurDelannoyazerty/38b62c702a9a200ccd3d011c5394f473)
 - [Plot geometries/geojson dict on a earth map background](https://gist.github.com/ArthurDelannoyazerty/98598c35d8dd75f11473bf765c01fc2f)
+- [Earth grid creation with geojson](https://gist.github.com/ArthurDelannoyazerty/7762acd05d6a405d8c583ccbe15adb35)
 
 
 ### Pytorch
