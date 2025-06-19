@@ -49,7 +49,7 @@
 - [Simple example : nginx + flask socketio + gunicorn + docker](https://gist.github.com/ArthurDelannoyazerty/dc009a45760cdd33e4d6fe0b8621d0e0)
 - [Extract a JSON or dict from a string](https://gist.github.com/ArthurDelannoyazerty/38b62c702a9a200ccd3d011c5394f473)
 - [Plot geometries/geojson dict on a earth map background](https://gist.github.com/ArthurDelannoyazerty/98598c35d8dd75f11473bf765c01fc2f)
-- [Earth grid creation with geojson](https://gist.github.com/ArthurDelannoyazerty/7762acd05d6a405d8c583ccbe15adb35)
+- [Download with tqdm progress bar](https://gist.github.com/ArthurDelannoyazerty/c09fe305e94d7759095e38134f34542c)
 
 
 ### Pytorch
@@ -73,5 +73,6 @@
 - [postgres pg_dump & pg_restore](https://gist.github.com/ArthurDelannoyazerty/575573a0f09769a49ff4f70fe96b0aeb)
 - [Delete docker volume](https://gist.github.com/ArthurDelannoyazerty/6aafb64e991e46f57c86073be1e03ec7)
 - [See folders & files size in linux](https://gist.github.com/ArthurDelannoyazerty/0929fde1e4598479596a8b82547bb9d5)
+- [Linux (hardware) info](https://gist.github.com/ArthurDelannoyazerty/d7a39b9f54d72e52040b7b18664f0a82)
 
 
