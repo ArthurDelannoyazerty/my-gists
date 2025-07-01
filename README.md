@@ -1,10 +1,14 @@
-# Summary
-## Python
-### Algorithm
+
+<details open>
+  <summary>
+    <h1>Python</h1>
+  </summary>
+
+## Algorithm
 - [Binary search](https://gist.github.com/ArthurDelannoyazerty/a5dedffff413f8696ed70d8a3ef96b7b)
 - [BFS / DFS](https://gist.github.com/ArthurDelannoyazerty/0d348fa60b9b247a28017813a20656fc)
 
-### Matplotlib
+## Matplotlib
 - [Useful functions and color maps](https://gist.github.com/ArthurDelannoyazerty/96c082db5b95678c3754de37a5174569)
 - [Automatic image size](https://gist.github.com/ArthurDelannoyazerty/83b59aba51deb70e4679b025443d5767)
 - [Animation 3D plot rotation](https://gist.github.com/ArthurDelannoyazerty/577e1bb56b9a07d023fef6975fefe640)
@@ -13,7 +17,7 @@
 - [plot GPX atlitude](https://gist.github.com/ArthurDelannoyazerty/eef54b621a702924e8f2b66dffb41075)
 - [Utils show and/or save plot](https://gist.github.com/ArthurDelannoyazerty/b35f366d8168b96cc1a17bad6c0eb0c4)
 
-### Miscellaneous
+## Miscellaneous
 - [Relative import tutorial](https://gist.github.com/ArthurDelannoyazerty/1fad8f19b668ea4730c424356c8e44b7)
 - [Dict sort items by value](https://gist.github.com/ArthurDelannoyazerty/ac7043e4880ac203d1207c413592ad2d)
 - [Sort filepath alphabetically](https://gist.github.com/ArthurDelannoyazerty/01525649bb7011825bdf34ca585214a7)
@@ -50,9 +54,10 @@
 - [Extract a JSON or dict from a string](https://gist.github.com/ArthurDelannoyazerty/38b62c702a9a200ccd3d011c5394f473)
 - [Plot geometries/geojson dict on a earth map background](https://gist.github.com/ArthurDelannoyazerty/98598c35d8dd75f11473bf765c01fc2f)
 - [Download with tqdm progress bar](https://gist.github.com/ArthurDelannoyazerty/c09fe305e94d7759095e38134f34542c)
+- [Array to matplotlib image](https://gist.github.com/ArthurDelannoyazerty/76a16a11bedaaf38575f4aa2e4660820)
 
 
-### Pytorch
+## Pytorch
 - [Slicing with backpropagation (strange)](https://gist.github.com/ArthurDelannoyazerty/61fd57fc798b1334e2cad6fd1f088c90)
 - [Plot computation graph (ideal to see if the model backpropagate correclty)](https://gist.github.com/ArthurDelannoyazerty/0471f4f68fd6fd8addf9ff1dc6da3568)
 - [What break the computation graph ?](https://gist.github.com/ArthurDelannoyazerty/2d3897c7e9e71b0199ab3aff0de335ee)
@@ -63,16 +68,40 @@
 - [Analyze embeddings](https://gist.github.com/ArthurDelannoyazerty/57edebae5305ada6b8f2fe1f0305a1eb)
 - [Dataloader benchmark](https://gist.github.com/ArthurDelannoyazerty/f9ab8b36a79c6f2045bf89c4ddbc8840)
 
+</details>
 
-## Others
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+<details open>
+  <summary>
+    <h1>Database</h1>
+  </summary>
+
+- [DPMC, a SQL DB to manage jobs on server](https://gist.github.com/ArthurDelannoyazerty/3ead4909deb7de6a274f4650c27f937b)
+- [Postgres pg_dump & pg_restore](https://gist.github.com/ArthurDelannoyazerty/575573a0f09769a49ff4f70fe96b0aeb)
+- [Countries to postgis](https://gist.github.com/ArthurDelannoyazerty/6168929b279fbc169241e16ebabd34a9)
+- [All SQL help (docker, postgis, python...)](https://gist.github.com/ArthurDelannoyazerty/cd69420a52df4fbf67e1fa9f084e5a26)
+
+
+
+</details>
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+<details open>
+  <summary>
+    <h1>Others</h1>
+  </summary>
+
 - [Hydra video synth](https://gist.github.com/ArthurDelannoyazerty/2702c3af4c09840aaf1a6f4352fdff8f)
 - [FFMPEG images to video](https://gist.github.com/ArthurDelannoyazerty/7bfbb4576b26ab2b739958ffbe21ef2a)
-- [DPMC, a SQL DB to manage jobs on server](https://gist.github.com/ArthurDelannoyazerty/3ead4909deb7de6a274f4650c27f937b)
 - [Git config & remote connection](https://gist.github.com/ArthurDelannoyazerty/e3137d62a35ae2fc007cd599fa1ecc7c)
 - [My .bashrc](https://gist.github.com/ArthurDelannoyazerty/a7ed4eee2781aa05e1f8911e487c8e80)
-- [postgres pg_dump & pg_restore](https://gist.github.com/ArthurDelannoyazerty/575573a0f09769a49ff4f70fe96b0aeb)
 - [Delete docker volume](https://gist.github.com/ArthurDelannoyazerty/6aafb64e991e46f57c86073be1e03ec7)
 - [See folders & files size in linux](https://gist.github.com/ArthurDelannoyazerty/0929fde1e4598479596a8b82547bb9d5)
 - [Linux (hardware) info](https://gist.github.com/ArthurDelannoyazerty/d7a39b9f54d72e52040b7b18664f0a82)
+- [SSH keys help](https://gist.github.com/ArthurDelannoyazerty/bf73d6c2534cd31e82a23675b05b35bc)
+- [Github markdown table help](https://gist.github.com/ArthurDelannoyazerty/4809c453c5d03c9b248fdf6646968279)
 
+</details>
 
