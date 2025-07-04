@@ -103,6 +103,7 @@
 - [Linux (hardware) info](https://gist.github.com/ArthurDelannoyazerty/d7a39b9f54d72e52040b7b18664f0a82)
 - [SSH keys help](https://gist.github.com/ArthurDelannoyazerty/bf73d6c2534cd31e82a23675b05b35bc)
 - [Github markdown table help](https://gist.github.com/ArthurDelannoyazerty/4809c453c5d03c9b248fdf6646968279)
+- [My .gitignore](https://gist.github.com/ArthurDelannoyazerty/f304bf0d39de36854802c1d8e260bb61)
 
 </details>
 
