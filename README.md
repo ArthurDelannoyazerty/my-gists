@@ -54,6 +54,7 @@
 - [Extract a JSON or dict from a string](https://gist.github.com/ArthurDelannoyazerty/38b62c702a9a200ccd3d011c5394f473)
 - [Plot geometries/geojson dict on a earth map background (PNG)](https://gist.github.com/ArthurDelannoyazerty/98598c35d8dd75f11473bf765c01fc2f)
 - [Plot geometries/geojson dict on a earth map background (HTML)(Interactive)](https://gist.github.com/ArthurDelannoyazerty/4eb5f41d0595c87b5864823be4bab641)
+- [Create earth grid + plot the grid](https://gist.github.com/ArthurDelannoyazerty/1e60ce2b8e8284a9cf91d174292fe17b)
 - [Download with tqdm progress bar](https://gist.github.com/ArthurDelannoyazerty/c09fe305e94d7759095e38134f34542c)
 - [Array to matplotlib image](https://gist.github.com/ArthurDelannoyazerty/76a16a11bedaaf38575f4aa2e4660820)
 - [F string exemples](https://gist.github.com/ArthurDelannoyazerty/591a4ee5e4028430a2a60973d002a5a0)
