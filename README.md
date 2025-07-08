@@ -106,6 +106,7 @@
 - [SSH keys help](https://gist.github.com/ArthurDelannoyazerty/bf73d6c2534cd31e82a23675b05b35bc)
 - [Github markdown table help](https://gist.github.com/ArthurDelannoyazerty/4809c453c5d03c9b248fdf6646968279)
 - [My .gitignore](https://gist.github.com/ArthurDelannoyazerty/f304bf0d39de36854802c1d8e260bb61)
+- [Linux Env variables](https://gist.github.com/ArthurDelannoyazerty/5e11f4672b0dd39a57fedfb394045577)
 
 </details>
 
