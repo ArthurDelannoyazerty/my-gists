@@ -77,6 +77,21 @@
 
 <details open>
   <summary>
+    <h1>Linux</h1>
+  </summary>
+
+- [My .bashrc](https://gist.github.com/ArthurDelannoyazerty/a7ed4eee2781aa05e1f8911e487c8e80)
+- [See folders & files size in linux](https://gist.github.com/ArthurDelannoyazerty/0929fde1e4598479596a8b82547bb9d5)
+- [Linux (hardware) info](https://gist.github.com/ArthurDelannoyazerty/d7a39b9f54d72e52040b7b18664f0a82)
+- [Linux Env variables](https://gist.github.com/ArthurDelannoyazerty/5e11f4672b0dd39a57fedfb394045577)
+
+
+</details>
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+<details open>
+  <summary>
     <h1>Database</h1>
   </summary>
 
@@ -99,14 +114,10 @@
 - [Hydra video synth](https://gist.github.com/ArthurDelannoyazerty/2702c3af4c09840aaf1a6f4352fdff8f)
 - [FFMPEG images to video](https://gist.github.com/ArthurDelannoyazerty/7bfbb4576b26ab2b739958ffbe21ef2a)
 - [Git config & remote connection](https://gist.github.com/ArthurDelannoyazerty/e3137d62a35ae2fc007cd599fa1ecc7c)
-- [My .bashrc](https://gist.github.com/ArthurDelannoyazerty/a7ed4eee2781aa05e1f8911e487c8e80)
 - [Delete docker volume](https://gist.github.com/ArthurDelannoyazerty/6aafb64e991e46f57c86073be1e03ec7)
-- [See folders & files size in linux](https://gist.github.com/ArthurDelannoyazerty/0929fde1e4598479596a8b82547bb9d5)
-- [Linux (hardware) info](https://gist.github.com/ArthurDelannoyazerty/d7a39b9f54d72e52040b7b18664f0a82)
 - [SSH keys help](https://gist.github.com/ArthurDelannoyazerty/bf73d6c2534cd31e82a23675b05b35bc)
 - [Github markdown table help](https://gist.github.com/ArthurDelannoyazerty/4809c453c5d03c9b248fdf6646968279)
 - [My .gitignore](https://gist.github.com/ArthurDelannoyazerty/f304bf0d39de36854802c1d8e260bb61)
-- [Linux Env variables](https://gist.github.com/ArthurDelannoyazerty/5e11f4672b0dd39a57fedfb394045577)
 
 </details>
 
