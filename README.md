@@ -85,6 +85,7 @@
 - [Linux (hardware) info](https://gist.github.com/ArthurDelannoyazerty/d7a39b9f54d72e52040b7b18664f0a82)
 - [Linux Env variables](https://gist.github.com/ArthurDelannoyazerty/5e11f4672b0dd39a57fedfb394045577)
 - [Bash full guide](https://gist.github.com/ArthurDelannoyazerty/5972ba09b57771fd260ad249e3ab5bd7)
+- [Linux commands](https://gist.github.com/ArthurDelannoyazerty/3e4987ad8089d14f37db75ab8357772e)
 
 </details>
 
