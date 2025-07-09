@@ -84,7 +84,7 @@
 - [See folders & files size in linux](https://gist.github.com/ArthurDelannoyazerty/0929fde1e4598479596a8b82547bb9d5)
 - [Linux (hardware) info](https://gist.github.com/ArthurDelannoyazerty/d7a39b9f54d72e52040b7b18664f0a82)
 - [Linux Env variables](https://gist.github.com/ArthurDelannoyazerty/5e11f4672b0dd39a57fedfb394045577)
-
+- [Bash full guide](https://gist.github.com/ArthurDelannoyazerty/5972ba09b57771fd260ad249e3ab5bd7)
 
 </details>
 
