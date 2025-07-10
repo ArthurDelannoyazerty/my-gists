@@ -86,6 +86,7 @@
 - [Linux Env variables](https://gist.github.com/ArthurDelannoyazerty/5e11f4672b0dd39a57fedfb394045577)
 - [Bash full guide](https://gist.github.com/ArthurDelannoyazerty/5972ba09b57771fd260ad249e3ab5bd7)
 - [Linux commands](https://gist.github.com/ArthurDelannoyazerty/3e4987ad8089d14f37db75ab8357772e)
+- [Pure bash snippets](https://github.com/dylanaraps/pure-bash-bible/blob/master/README.md#table-of-contents)
 
 </details>
 
