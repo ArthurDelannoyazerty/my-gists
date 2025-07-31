@@ -129,6 +129,7 @@
 - [Delete docker volume](https://gist.github.com/ArthurDelannoyazerty/6aafb64e991e46f57c86073be1e03ec7)
 - [SSH keys help](https://gist.github.com/ArthurDelannoyazerty/bf73d6c2534cd31e82a23675b05b35bc)
 - [UML explained](https://gist.github.com/ArthurDelannoyazerty/c7200ce17e2016ac8d8439cb6986fc14)
+- [Count number of line in a project (with filters)](https://gist.github.com/ArthurDelannoyazerty/1ec25a48471ba1c6777ab2f012b43480)
 
 </details>
 
