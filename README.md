@@ -60,6 +60,7 @@
 - [Array to matplotlib image](https://gist.github.com/ArthurDelannoyazerty/76a16a11bedaaf38575f4aa2e4660820)
 - [F string exemples](https://gist.github.com/ArthurDelannoyazerty/591a4ee5e4028430a2a60973d002a5a0)
 - [Some functions to find, load and move files/images from a zipfile without extracting everything](https://gist.github.com/ArthurDelannoyazerty/4148dd134baff553eea099f0a9b8ce0c)
+- [Find file in folders](https://gist.github.com/ArthurDelannoyazerty/934725155d75cb1f3637b3e197a1d25a)
 
 
 ## Pytorch
