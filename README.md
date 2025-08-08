@@ -61,6 +61,7 @@
 - [F string exemples](https://gist.github.com/ArthurDelannoyazerty/591a4ee5e4028430a2a60973d002a5a0)
 - [Some functions to find, load and move files/images from a zipfile without extracting everything](https://gist.github.com/ArthurDelannoyazerty/4148dd134baff553eea099f0a9b8ce0c)
 - [Find file in folders](https://gist.github.com/ArthurDelannoyazerty/934725155d75cb1f3637b3e197a1d25a)
+- [Advanced decorator to time functions (with logger, table summary, chart creator)](https://gist.github.com/ArthurDelannoyazerty/ab5ebdff935e241a93dc8dbddb2de111)
 
 
 ## Pytorch
