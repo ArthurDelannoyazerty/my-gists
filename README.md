@@ -37,7 +37,6 @@
 - [Graph summary networkX](https://gist.github.com/ArthurDelannoyazerty/34da5feab27ad8d4b4f1eea5498d130e)
 - [Count lines in file](https://gist.github.com/ArthurDelannoyazerty/61fb02d9dbae92aad7f473bd4a97bcac)
 - [Count JSON items](https://gist.github.com/ArthurDelannoyazerty/561f07606bfdb1aaa587a45b503ba3b3)
-- [Find files in nested folder according to the specified file extension](https://gist.github.com/ArthurDelannoyazerty/4ee434e0f7029fc1382ca2a1dbfa345b)
 - [A One Line luminosity and contrast manipulation OpenCV](https://gist.github.com/ArthurDelannoyazerty/098a6233d182301e4e67d25536ecf763)
 - [SQL database interface](https://gist.github.com/ArthurDelannoyazerty/7bf3eb9f01bbe4d21a36ec7ba1c39163)
 - [SQL database interface async](https://gist.github.com/ArthurDelannoyazerty/102595e4d88d5acbf018b1dad72644de)
@@ -60,7 +59,7 @@
 - [Array to matplotlib image](https://gist.github.com/ArthurDelannoyazerty/76a16a11bedaaf38575f4aa2e4660820)
 - [F string exemples](https://gist.github.com/ArthurDelannoyazerty/591a4ee5e4028430a2a60973d002a5a0)
 - [Some functions to find, load and move files/images from a zipfile without extracting everything](https://gist.github.com/ArthurDelannoyazerty/4148dd134baff553eea099f0a9b8ce0c)
-- [Find file in folders](https://gist.github.com/ArthurDelannoyazerty/934725155d75cb1f3637b3e197a1d25a)
+- [Find file in folders (file extension filter)](https://gist.github.com/ArthurDelannoyazerty/934725155d75cb1f3637b3e197a1d25a)
 - [Advanced decorator to time functions (with logger, table summary, chart creator)](https://gist.github.com/ArthurDelannoyazerty/ab5ebdff935e241a93dc8dbddb2de111)
 
 
