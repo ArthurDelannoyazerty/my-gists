@@ -17,10 +17,17 @@
 - [plot GPX atlitude](https://gist.github.com/ArthurDelannoyazerty/eef54b621a702924e8f2b66dffb41075)
 - [Utils show and/or save plot](https://gist.github.com/ArthurDelannoyazerty/b35f366d8168b96cc1a17bad6c0eb0c4)
 
+## Utils
+*Large python files that contains fully fonctionnal object*
+- [FileUtils : find files by extension, sort files](https://gist.github.com/ArthurDelannoyazerty/a23c75beacebc7040eabd2d8f2acc6ff)
+- [ZipUtils : find, load, extract files/images from a zipfile without extracting everything](https://gist.github.com/ArthurDelannoyazerty/4148dd134baff553eea099f0a9b8ce0c)
+- [SQL database interface](https://gist.github.com/ArthurDelannoyazerty/7bf3eb9f01bbe4d21a36ec7ba1c39163)
+- [SQL database interface async](https://gist.github.com/ArthurDelannoyazerty/102595e4d88d5acbf018b1dad72644de)
+- [Advanced decorator to time functions (with logger, table summary, chart creator)](https://gist.github.com/ArthurDelannoyazerty/ab5ebdff935e241a93dc8dbddb2de111)
+
 ## Miscellaneous
 - [Relative import tutorial](https://gist.github.com/ArthurDelannoyazerty/1fad8f19b668ea4730c424356c8e44b7)
 - [Dict sort items by value](https://gist.github.com/ArthurDelannoyazerty/ac7043e4880ac203d1207c413592ad2d)
-- [Sort filepath alphabetically](https://gist.github.com/ArthurDelannoyazerty/01525649bb7011825bdf34ca585214a7)
 - [Nested dict Filter](https://gist.github.com/ArthurDelannoyazerty/d6bc1caf98ad88f91d74bb68bed2fab3)
 - [Nested dict Merge 1](https://gist.github.com/ArthurDelannoyazerty/0c63559ac10e6c488efd075601ce1fe8)
 - [Nested dict Merge 2](https://gist.github.com/ArthurDelannoyazerty/6a8ef4d406e63b0768e576deabe5e170)
@@ -29,7 +36,6 @@
 - [Delete content of a folder but not the folder itself](https://gist.github.com/ArthurDelannoyazerty/0c4b1a7b0473e8d4ec8a90ed08378612)
 - [Profiler snakeviz](https://gist.github.com/ArthurDelannoyazerty/6ab3cdb7f6c63e11796ae457213a46ac)
 - [Change dict value type](https://gist.github.com/ArthurDelannoyazerty/671b0dedcf6aa16756315683c9e03aac)
-- [Extract 7zip](https://gist.github.com/ArthurDelannoyazerty/0384de279199688e1e9d86760b5b0b78)
 - [Merge pandas dataframe](https://gist.github.com/ArthurDelannoyazerty/8da055cac82c68ba851a84b3f7ee0666)
 - [JSON and IJSON utils](https://gist.github.com/ArthurDelannoyazerty/c6c3573e5cf1423755aa4c800b850dcc)
 - [Remove last char from a file](https://gist.github.com/ArthurDelannoyazerty/16db62d5742b043b2ae3ea94031cc182)
@@ -38,8 +44,6 @@
 - [Count lines in file](https://gist.github.com/ArthurDelannoyazerty/61fb02d9dbae92aad7f473bd4a97bcac)
 - [Count JSON items](https://gist.github.com/ArthurDelannoyazerty/561f07606bfdb1aaa587a45b503ba3b3)
 - [A One Line luminosity and contrast manipulation OpenCV](https://gist.github.com/ArthurDelannoyazerty/098a6233d182301e4e67d25536ecf763)
-- [SQL database interface](https://gist.github.com/ArthurDelannoyazerty/7bf3eb9f01bbe4d21a36ec7ba1c39163)
-- [SQL database interface async](https://gist.github.com/ArthurDelannoyazerty/102595e4d88d5acbf018b1dad72644de)
 - [Logging useful snippets](https://gist.github.com/ArthurDelannoyazerty/3bba8c3b112960bfc8554b7e73e8b383)
 - [Llamaindex create llm running with Ollama](https://gist.github.com/ArthurDelannoyazerty/67a9f37295a70e42d819d58724d05b4d)
 - [Send a request to a url](https://gist.github.com/ArthurDelannoyazerty/b61009f888459dbe288fc92b88e94b01)
@@ -58,9 +62,6 @@
 - [Download with tqdm progress bar](https://gist.github.com/ArthurDelannoyazerty/c09fe305e94d7759095e38134f34542c)
 - [Array to matplotlib image](https://gist.github.com/ArthurDelannoyazerty/76a16a11bedaaf38575f4aa2e4660820)
 - [F string exemples](https://gist.github.com/ArthurDelannoyazerty/591a4ee5e4028430a2a60973d002a5a0)
-- [ZipUtils : find, load, extract files/images from a zipfile without extracting everything](https://gist.github.com/ArthurDelannoyazerty/4148dd134baff553eea099f0a9b8ce0c)
-- [Find file in folders (file extension filter)](https://gist.github.com/ArthurDelannoyazerty/934725155d75cb1f3637b3e197a1d25a)
-- [Advanced decorator to time functions (with logger, table summary, chart creator)](https://gist.github.com/ArthurDelannoyazerty/ab5ebdff935e241a93dc8dbddb2de111)
 
 
 ## Pytorch
