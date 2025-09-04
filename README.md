@@ -39,8 +39,6 @@
 - [Merge pandas dataframe](https://gist.github.com/ArthurDelannoyazerty/8da055cac82c68ba851a84b3f7ee0666)
 - [JSON and IJSON utils](https://gist.github.com/ArthurDelannoyazerty/c6c3573e5cf1423755aa4c800b850dcc)
 - [Remove last char from a file](https://gist.github.com/ArthurDelannoyazerty/16db62d5742b043b2ae3ea94031cc182)
-- [Iterate folder content](https://gist.github.com/ArthurDelannoyazerty/820fe4efd4ddaa22ab9b0b5010293961)
-- [Graph summary networkX](https://gist.github.com/ArthurDelannoyazerty/34da5feab27ad8d4b4f1eea5498d130e)
 - [Count lines in file](https://gist.github.com/ArthurDelannoyazerty/61fb02d9dbae92aad7f473bd4a97bcac)
 - [Count JSON items](https://gist.github.com/ArthurDelannoyazerty/561f07606bfdb1aaa587a45b503ba3b3)
 - [A One Line luminosity and contrast manipulation OpenCV](https://gist.github.com/ArthurDelannoyazerty/098a6233d182301e4e67d25536ecf763)
