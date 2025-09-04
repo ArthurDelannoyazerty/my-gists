@@ -66,7 +66,6 @@
 
 ## Pytorch
 - [Slicing with backpropagation (strange)](https://gist.github.com/ArthurDelannoyazerty/61fd57fc798b1334e2cad6fd1f088c90)
-- [Plot computation graph (ideal to see if the model backpropagate correclty)](https://gist.github.com/ArthurDelannoyazerty/0471f4f68fd6fd8addf9ff1dc6da3568)
 - [What break the computation graph ?](https://gist.github.com/ArthurDelannoyazerty/2d3897c7e9e71b0199ab3aff0de335ee)
 - [Tensorboard profiler and data writer](https://gist.github.com/ArthurDelannoyazerty/d75a238248ba96a7367d3d4baf29bf63)
 - [Dataset example](https://gist.github.com/ArthurDelannoyazerty/00f4c3b90c23258c87ed16d6fe69b2cd)
@@ -74,6 +73,7 @@
 - [Find triangles (3 cycles) in graph](https://gist.github.com/ArthurDelannoyazerty/2aa82057cda97e8c5804a405c562bfe0)
 - [Analyze embeddings](https://gist.github.com/ArthurDelannoyazerty/57edebae5305ada6b8f2fe1f0305a1eb)
 - [Dataloader benchmark](https://gist.github.com/ArthurDelannoyazerty/f9ab8b36a79c6f2045bf89c4ddbc8840)
+- [Pytorch model viz (backpropagation graph)](https://gist.github.com/ArthurDelannoyazerty/97e7b427bffdefc3d3d774642b8e738a)
 
 </details>
 
