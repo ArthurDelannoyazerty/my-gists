@@ -134,6 +134,7 @@
 - [UML explained](https://gist.github.com/ArthurDelannoyazerty/c7200ce17e2016ac8d8439cb6986fc14)
 - [Count number of line in a project (with filters)](https://gist.github.com/ArthurDelannoyazerty/1ec25a48471ba1c6777ab2f012b43480)
 - [.vscode folder](https://gist.github.com/ArthurDelannoyazerty/4b8b8644d498cf0c541b35da7e64273c)
+- [VLLM benchmark](https://gist.github.com/ArthurDelannoyazerty/459fea5b99317cf6eb01001fb6644e07)
 
 </details>
 
